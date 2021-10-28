@@ -1,6 +1,8 @@
 # Scriptable Hub
 > Code snippets, examples and links for all your Scriptable development
 
+![Visits Badge](https://badges.pufler.dev/visits/wickenico/scriptable-hub)
+
 ## Code Snippets
 
 ## Scriptables
@@ -11,4 +13,4 @@
 - Twiiter: https://twitter.com/scriptableapp
 
 ## Want to Contribute?
--Use Issues tab
+- Use Issues tab
