@@ -4,6 +4,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/wickenico/scriptable-hub)
 
 ## Code Snippets
+- Direct way to all snippets: https://github.com/wickenico/scriptable-hub/tree/main/snippets
 
 ## Scriptables
 - Bitcoin-USD-Course: https://github.com/wickenico/btc-usd-course.js
