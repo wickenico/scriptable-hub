@@ -6,11 +6,19 @@
 ## Code Snippets
 
 ## Scriptables
+- Bitcoin-USD-Course: https://github.com/wickenico/btc-usd-course.js
+- Country Information: https://github.com/wickenico/country-information.js
+- Crypto Ticker: https://github.com/wickenico/crypto-ticker-widget.js
+- Exchange Rates: https://github.com/wickenico/exchange-rates.js
+- Random Meme: https://github.com/wickenico/random-meme.js
+- Stock Widget: https://github.com/wickenico/stock-widget.js
 
 ## Useful links
 - Subreddit: https://www.reddit.com/r/Scriptable/
 - Documentation: https://docs.scriptable.app
 - Twitter: https://twitter.com/scriptableapp
+- Scriptdude: https://scriptdu.de
+- Widget Hub: https://widget-hub.app
 
 ## Want to Contribute?
 - Use Issues tab
