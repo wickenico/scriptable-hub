@@ -1,4 +1,5 @@
-![[Logo](/img/logo.png)
+<img src="img/logo.png" width="300">
+
 # Scriptable Hub
 > Code snippets, examples and links for all your Scriptable development
 
