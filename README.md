@@ -23,4 +23,4 @@
 - Widget Hub: https://widget-hub.app
 
 ## Want to Contribute?
-- Use Issues tab
+- Use the issue tab to suggest new snippets
