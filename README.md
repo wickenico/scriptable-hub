@@ -3,8 +3,6 @@
 # Scriptable Hub
 > Code snippets, examples and links for all your Scriptable development
 
-![Visits Badge](https://badges.pufler.dev/visits/wickenico/scriptable-hub)
-
 ## Code Snippets
 - Direct way to all snippets: https://github.com/wickenico/scriptable-hub/tree/main/snippets
 
